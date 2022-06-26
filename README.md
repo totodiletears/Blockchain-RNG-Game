@@ -3,11 +3,15 @@
 
 This is a blockchain based RNG game using hardhat, nodejs, ethersjs, and express
 
-Hardhat is config for Harmony Devnet
+(hardhat is config for Harmony Devnet)
 
-Rules: To win you must get the correct number
+Rules: 
 
 To enter you must send 1 ETH to the contract
+
+To win you must get the correct number
+
+Losers try again
 
 How it works:
 
