@@ -36,3 +36,8 @@ in Contract run `npx hardhat run scripts/enter.js` to simulate an entry
 
 check log from server to see if you win!
 
+
+
+Note: 
+
+For now, owner_address should be Account 1 for provided mnemonic
